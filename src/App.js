@@ -8,7 +8,7 @@ import Reto3 from './components/Reto3';
       <div className="App">
         <Reto3 
         imgu="scarletwitch"
-        titulo="Bruja Escarlata"
+        titulo="Bruja Escarlata :)"
         textouno="Se profetiza que destruira el cosmos"
         imgn="icon-ethereum"
         texto2="0.041 ETH"
